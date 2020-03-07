@@ -13,7 +13,7 @@ n = int(input("Masukkan n (harus genap) : "))
 
 delta=(b-a)/n
 total = 0
-
+ 
 for z in range(n+1) :
     y = func.subs(x,(a+z*delta))
 

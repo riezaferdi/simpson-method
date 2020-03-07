@@ -3,6 +3,6 @@
 Library to use :
 First install mpmath library
 then install sympy library
-For more documentation  : https://github.com/sympy/sympy/releases
+For more documentation  : https://github.com/sympy/sympy/releases 
 
 -----------------------------------------------------------------BY Zafer------------------------------------------------------------------

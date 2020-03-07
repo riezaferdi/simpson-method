@@ -1,0 +1,8 @@
+**NOTE**
+
+Library to use :
+First install mpmath library
+then install sympy library
+
+
+-----------------------------------------------------------------BY Zafer------------------------------------------------------------------
